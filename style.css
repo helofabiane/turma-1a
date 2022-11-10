@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(245, 225, 225);
+    background-color: rgba(255, 255, 255, 0.519);
 }
 
 p {
@@ -7,5 +7,5 @@ p {
 }
 
 em strong {
-    color:burlywood
+    color:rgb(176, 27, 27)
 }
